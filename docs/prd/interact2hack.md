@@ -1,6 +1,6 @@
 # PRD · App Interact2Hack 2027
 
-- **Versión:** 1.2 · 28 de noviembre de 2026 (revisada con `revision.md`; agrega la propuesta del equipo para las mentorías, S8, y resuelve O18–O21)
+- **Versión:** 1.2 · 28 de noviembre de 2026 (revisada con `revision.md`; agrega la propuesta del equipo para las mentorías, S8, y resuelve O18–O21; agrega S9–S11 del panel de admin)
 - **Equipo:** Mateo Montesdeoca y Nathalia Barriga
 - **Fuente:** [respuestas del cliente](../cliente/respuestas.md). Cada decisión cita de dónde sale: preguntas (P1, P2…), prioritarias (T1…), notas de la sesión (N1…) o aclaraciones posteriores (A1…).
 
@@ -113,6 +113,9 @@ Los **jueces** y los **auspiciantes** no tienen un rol dentro de la app: solo ap
 | S6 | El perfil muestra también el correo del usuario | Descartado: A19 |
 | S7 | Al eliminar la cuenta se borran los datos del usuario | Descartado: A20 |
 | S8 | Decisión del equipo para las mentorías: el día del evento la organización entrega una sola clave, la misma para todos, que el admin define desde el panel. Solo quien ingresa esa clave en la app puede reservar un horario con un mentor. La clave se ingresa una sola vez: la cuenta queda habilitada y la app no la vuelve a pedir, en ningún teléfono donde se inicie sesión con esa cuenta | Vigente · pendiente de validar con el cliente (O4) |
+| S9 | Si el admin cambia la clave de mentorías, las cuentas que ya ingresaron la clave anterior siguen habilitadas | Vigente · decisión del equipo |
+| S10 | La clave de mentorías tiene al menos 6 caracteres | Vigente · decisión del equipo |
+| S11 | Las actividades de la agenda se ordenan solas por día y hora; el admin no tiene que ordenarlas | Vigente · decisión del equipo |
 
 **Puntos abiertos:**
 
